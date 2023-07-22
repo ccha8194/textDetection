@@ -1,2 +1,2 @@
 # textDetection
-Border detection model configuration using Paddle OCR. Excel files resulting from running in runtime in colab under "Excel Output" folder.
+Simple table detection and extraction model (Paddle OCR) configuration. Resulting Excel files outputted during runtime under "Excel Output" folder. 
